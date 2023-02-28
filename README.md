@@ -37,11 +37,8 @@ Backend Consists of :
 - Data
  - Models to set up databse
 
-Quick One minute demo of features and front end design (note the quality of gif is choppy) :
+Quick One minute demo of features and front end design (notes about below clip : The fps is low hence its choppy, the video is discolored and not picking up some colours also the dropdown options aren't showing when clicked) :
   
 
 ![Screen Recording - 28 February 2023](https://user-images.githubusercontent.com/100313005/221886566-cadd5298-ed75-4743-a99b-310149a5b4ed.gif)
 
-
-MySQL Consists of :
-- look how the database looks like
