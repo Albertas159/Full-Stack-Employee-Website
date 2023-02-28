@@ -24,19 +24,19 @@ Below Info needs to be updated and filled in!
 
 
 Backend Consists of :
-Authentication
-CRUD operations
-restframework
-Settings
-Data
-Models
-JWT
+-Authentication
+-CRUD operations
+-restframework
+-Settings
+-Data
+-Models
+-JWT
 
 
 Frontend Consists of :
-Website
-pages
-Photos/demo
+-Website
+-pages
+-Photos/demo
 
 MySQL Consists of :
-look how the database looks like
+- look how the database looks like
