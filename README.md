@@ -25,18 +25,23 @@ Below Info needs to be updated and filled in!
 
 Backend Consists of :
 - Authentication
+  - JWT tokens and Headers
+  - hashed passwords
+  - User models
 - CRUD operations
+  - GET
+  - PUT
+  - DELETE
+  - UPDATE
 - restframework
-- Settings
 - Data
-- Models
-- JWT
+ - Models to set up databse
 
+Quick One minute demo of features and front end design (note the quality of gif is choppy) :
+  
 
-Frontend Consists of :
-- Website
-- pages
-- Photos/demo
+![Screen Recording - 28 February 2023](https://user-images.githubusercontent.com/100313005/221886566-cadd5298-ed75-4743-a99b-310149a5b4ed.gif)
+
 
 MySQL Consists of :
 - look how the database looks like
