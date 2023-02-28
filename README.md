@@ -1,5 +1,5 @@
 # Full-Stack-Employee-Website
-A dummy Employee Website using Python Django and React JS
+A fake Employee Website using Python Django and React JS
 
 --------------------------------------
 
