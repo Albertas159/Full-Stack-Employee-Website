@@ -33,9 +33,9 @@ Backend Consists of :
   - PUT
   - DELETE
   - UPDATE
-- restframework
 - Data
   - Models to set up databse
+- restframework
 
 Quick One minute demo of features and front end design (notes about below clip : The fps is low hence its choppy, the video is discolored and not picking up some colours also the dropdown options aren't showing when clicked) :
 
